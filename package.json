@@ -1,0 +1,9 @@
+{
+  "name": "pke-meter",
+  "title": "pke-meter",
+  "id": "jid1-ExuBJUcYwWbN9g",
+  "description": "A Geiger Counter for unsafe or unexpected CPOW's",
+  "author": "Mike Conley",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}
